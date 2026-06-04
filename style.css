@@ -1,18 +1,18 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-:root {
+  :root {
   --gold: #fac106;
-  --gold-dim: #c9a22799;
+  --gold-dim: #daab11a0;
   --gold-faint: #c9a22722;
   --gold-border: #c9a22740;
   --silver: #d0d0d0;
   --bg: #080808;
   --surface: #101008;
   --surface2: #141410;
-  --border: #1e1e12;
+  --border: #2e2e2b;
   --text: #ffffff;
-  --muted: #555550;
-  --hint: #2e2e20;
+  --muted: #92928e;
+  --hint: #92928e;
 }
 
 html, body {
