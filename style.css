@@ -1,7 +1,7 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 :root {
-  --gold: #c9a227;
+  --gold: #fac106;
   --gold-dim: #c9a22799;
   --gold-faint: #c9a22722;
   --gold-border: #c9a22740;
